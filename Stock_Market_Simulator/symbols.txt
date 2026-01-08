@@ -1,0 +1,47 @@
+SYMBOLs for some common companies that can be used in the stock market simulator
+
+SYMBOL,Company Name
+
+AAPL,Apple Inc.
+MSFT,Microsoft Corporation
+GOOGL,Alphabet Inc. (Google)
+AMZN,Amazon.com Inc.
+TSLA,Tesla Inc.
+NVDA,NVIDIA Corporation
+META,Meta Platforms Inc.
+NFLX,Netflix Inc.
+
+JPM,JPMorgan Chase & Co.
+BAC,Bank of America Corp.
+GS,Goldman Sachs Group Inc.
+V,Visa Inc.
+MA,Mastercard Inc.
+
+INTC,Intel Corporation
+AMD,Advanced Micro Devices Inc.
+ORCL,Oracle Corporation
+IBM,International Business Machines
+CRM,Salesforce Inc.
+
+WMT,Walmart Inc.
+COST,Costco Wholesale Corp.
+KO,Coca-Cola Co.
+PEP,PepsiCo Inc.
+MCD,McDonald's Corporation
+
+XOM,Exxon Mobil Corporation
+CVX,Chevron Corporation
+BA,Boeing Co.
+CAT,Caterpillar Inc.
+GE,General Electric Co.
+
+JNJ,Johnson & Johnson
+PFE,Pfizer Inc.
+MRNA,Moderna Inc.
+ABBV,AbbVie Inc.
+UNH,UnitedHealth Group Inc.
+
+SPY,SPDR S&P 500 ETF Trust
+QQQ,Invesco QQQ Trust
+DIA,SPDR Dow Jones Industrial Average ETF
+VTI,Vanguard Total Stock Market ETF
